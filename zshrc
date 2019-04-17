@@ -96,3 +96,5 @@ export P4CONFIG=.p4config
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
