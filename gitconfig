@@ -1,3 +1,7 @@
 [user]
 	name = Ben Tsai
 	email = betsai@cisco.com
+
+[push]
+	# Push current branch even if you've never pushed it before
+	default = current
