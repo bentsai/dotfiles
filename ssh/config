@@ -1,0 +1,7 @@
+Host ace_dev_2
+Hostname u45c01p06-vrouter.cisco.com
+User root
+Port 10520
+UserKnownHostsFile /dev/null
+LogLevel QUIET
+StrictHostKeyChecking no
