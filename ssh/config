@@ -1,7 +1,125 @@
+Host ace_dev_1
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 10510
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
 Host ace_dev_2
-Hostname u45c01p06-vrouter.cisco.com
-User root
-Port 10520
-UserKnownHostsFile /dev/null
-LogLevel QUIET
-StrictHostKeyChecking no
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 10520
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host ace_dev_17
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 10550
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host ace_dev_24
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 15410
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host ace_ftd_26
+    Hostname u45c01p06-vrouter.cisco.com
+    User admin
+    Port 15260
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host ace_ftd_38
+    Hostname u45c01p06-vrouter.cisco.com
+    User admin
+    Port 15380
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host sit_scale_600
+    Hostname 10.106.134.166
+    User root
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host sit2
+    Hostname 10.83.61.21
+    User admin
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host sit
+    Hostname 10.83.61.6
+    User root
+    Port 15458
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host fac
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 6123
+    UserKNownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host abhijit
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 15120
+    UserKNownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host six_six
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 17658
+    UserKNownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host dashboard
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 39084
+    UserKNownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host betsai_nightly
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 39705
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host betsai_nightly_ftd
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 38676
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
+
+Host ace2_nb2
+    Hostname u45c01p06-vrouter.cisco.com
+    User root
+    Port 22411
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no

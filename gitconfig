@@ -5,3 +5,8 @@
 [push]
 	# Push current branch even if you've never pushed it before
 	default = current
+[filter "lfs"]
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
