@@ -123,3 +123,11 @@ Host ace2_nb2
     UserKnownHostsFile /dev/null
     LogLevel QUIET
     StrictHostKeyChecking no
+
+Host hans
+    Hostname u45c01p14-vrouter.cisco.com
+    User root
+    Port 30317
+    UserKnownHostsFile /dev/null
+    LogLevel QUIET
+    StrictHostKeyChecking no
